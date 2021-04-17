@@ -1,0 +1,7 @@
+{
+  "name": "veritime_webview",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
